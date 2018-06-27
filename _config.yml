@@ -1,7 +1,9 @@
 title: PORTFOLIO
 name: 신주용
 email: sjy9568@gmail.com
-description: 
+description: 웹개발자의 
+
+theme: jekyll-material-theme
 
 baseurl: "/blog"
 url: ""
