@@ -13,7 +13,7 @@ project_one: "먹고갈래 포장할래"
 project_one_description: 좌석혼잡도 확인, 포장 예약 서비스로 바쁜 현대생활 시간절약과 전화 통화를 기피하는 사람들을 위한 웹 예약 서비스
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
-project_one_img: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
+project_one_image: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
 
 project_two: 내맘대로
 project_two_description: 심리상담 매칭 서비스
