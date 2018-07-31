@@ -17,14 +17,14 @@ project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
 project_one_image: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
 
-project_two: 내맘대로
-project_two_description: 심리상담 매칭 서비스로 고객은 심리 상담을 좀 더 편하게 다가갈 수 있는 서비스를 제공하고, 심리 상담사 입문자~전문가 까지 폭 넓은 상담 기회를 제공
+project_two: Marriage
+project_two_description: 결혼 매칭 사이트로, 기존에 있는 매칭 사이트 디자인을 가져와 기능만 추가
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
-project_three: 결혼해듀오
-project_three_description: 결혼 매칭 웹 서비스로 현재 서비스 중인 결혼해 듀오 사이트 디자인을 카피해 기능적인 부분을 개발
+project_three: 내 마음 대로
+project_three_description: 개인 프로젝트
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
