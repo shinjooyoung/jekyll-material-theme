@@ -13,13 +13,13 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "먹고갈래 포장할래"
 project_one_description: 좌석혼잡도 확인, 포장 예약 서비스로 바쁜 현대생활 시간절약과 전화 통화를 기피하는 사람들을 위한 웹 예약 서비스
-project_one_url: https://github.com/shinjooyoung/Mukpo.git
+project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
 project_one_image: https://raw.githubusercontent.com/shinjooyoung/shinjooyoung.github.com/master/assets/images/mukpo.png
-  
+
 project_two: Marriage
-project_two_description: 결혼 매칭 사이트로, 기존에 있는 사이트(출처 : 결혼해 듀오, https://www.duo.co.kr)디자인으로 기능개발 연습 사이트
-project_two_url: https://github.com/shinjooyoung/Marriage.git
+project_two_description: 결혼 매칭 사이트, 결혼해듀오 'https://www.duo.co.kr' 디자인으로 기능개발 연습 사이트 
+project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
